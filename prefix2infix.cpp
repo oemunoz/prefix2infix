@@ -2,7 +2,6 @@
 #include <ctype.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include <ncurses.h>
 
 #define SIZESE 80
 
