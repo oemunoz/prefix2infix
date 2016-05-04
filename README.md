@@ -40,6 +40,7 @@ Some fixes, tactica de señuelo en el correo, waiting for the OBSERVATIONS of "p
 ## Credits
 
 http://scanftree.com/Data_Structure/prefix-to-infix
+This is a good implementation of the program, in fact, my own code is based on this example. Nevertheless this original code have some restricttions, and are "fixed" on this implementation.
 
 Test examples:
 https://yoursandmyideas.wordpress.com/2012/04/07/infixtoprefix/
