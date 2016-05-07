@@ -34,8 +34,8 @@ Prefix | Infix
 
 Some fixes, tactica de señuelo en el correo, waiting for the OBSERVATIONS of "profesional ingenier".
 ![Window test.](images/prefix2infix.png)
-![Good Exmaples1.](/images/infixtoprefixexamples.png)
-![Good Exmaples2.](/images/infix_prefix_postfix_expressions.jpg)
+![Good Exmaples1.](images/infixtoprefixexamples.png)
+![Good Exmaples2.](images/infix_prefix_postfix_expressions.jpg)
 
 ## Credits
 
